@@ -2,6 +2,7 @@ Home List
 ---------------
 Fix Coffee Machine
 Hang Pictures
+Connect Speakers
 
 Garage List
 ---------------
